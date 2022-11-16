@@ -1,2 +1,2 @@
-# onine shopping specefic nike shoes
+# onine shopping specific nike shoes
 my first repository on github
